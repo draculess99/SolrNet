@@ -1,3 +1,6 @@
+
+
+this is a commit on the other branch
 # Faceting
 
 SolrNet supports [faceted searching](https://cwiki.apache.org/confluence/display/solr/Faceting).
